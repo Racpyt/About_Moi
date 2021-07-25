@@ -1,0 +1,30 @@
+.text{
+    height: 100px;
+    background-color: #FDF9F9;
+    font-family: helvetica;
+    font-size: 25px;
+    text-align: right;
+      
+.Background{
+    background-color: #F9E8E8;
+}
+.Plant{
+    width: 150px;
+}
+.Moi{
+    width: 620px;
+    padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+    text-align:center;
+    border-radius: 20px;
+}
+.Rachel{
+    color: #000;
+    display: block;
+    padding: 0 65px 0 0;
+    text-decoration: none;
+
+
+}
